@@ -30,7 +30,7 @@ Latenite 是一款深色 VS Code 主题，采用**黑紫**配色方案，**低�
 
 ### 方式一：GitHub Release（手动安装）
 
-1. 从 [Releases](https://github.com/YOUR_USERNAME/latenite/releases) 页面下载最新的 `.vsix` 文件。
+1. 从 [Releases](https://github.com/rorangeeee/latenite/releases) 页面下载最新的 `.vsix` 文件。
 2. 打开 VS Code。
 3. 按 `Ctrl+Shift+P`（macOS 为 `Cmd+Shift+P`）打开命令面板。
 4. 执行 `Extensions: Install from VSIX...`。
@@ -48,6 +48,6 @@ Latenite 是一款深色 VS Code 主题，采用**黑紫**配色方案，**低�
 
 本主题是一个持续迭代的个人项目。我欢迎以下形式的贡献：
 
-- 通过 [GitHub Issues](https://github.com/YOUR_USERNAME/latenite/issues) 提交 **缺陷报告** 或 **可读性问题**。
+- 通过 [GitHub Issues](https://github.com/rorangeeee/latenite/issues) 提交 **缺陷报告** 或 **可读性问题**。
 - 提交 **Pull Request** 以改进主题或增加对其他语言的支持。
 - **Fork** 本项目进行个人定制 —— 欢迎自由修改，打造属于你自己的版本。

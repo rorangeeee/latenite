@@ -30,7 +30,7 @@ While it may work reasonably well in other environments, **no guarantees** are m
 
 ### Option 1: GitHub Release (Manual)
 
-1. Download the latest `.vsix` file from the [Releases](https://github.com/YOUR_USERNAME/latenite/releases) page.
+1. Download the latest `.vsix` file from the [Releases](https://github.com/rorangeeee/latenite/releases) page.
 2. Open VS Code.
 3. Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on macOS) to open the Command Palette.
 4. Run `Extensions: Install from VSIX...`.
@@ -48,6 +48,6 @@ While it may work reasonably well in other environments, **no guarantees** are m
 
 This theme is an ongoing personal project. I welcome:
 
-- **Bug reports** or **readability issues** via [GitHub Issues](https://github.com/YOUR_USERNAME/latenite/issues).
+- **Bug reports** or **readability issues** via [GitHub Issues](https://github.com/rorangeeee/latenite/issues).
 - **Pull requests** for improvements or additional language support.
 - **Forks** for personal customization — feel free to modify the theme to your own liking.
