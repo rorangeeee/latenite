@@ -8,7 +8,7 @@ Latenite is a dark VS Code theme featuring a **black-purple** color palette with
 ## Variants
 
 - **latenite** — black & purple, the original dark theme.
-- **latenite dawn** — the light counterpart: the same dimmed syntax palette, laid on a lavender paper (`#C6ACE0`) with deep violet ink and an `#40009E` accent.
+- **latenite dawn** — the light counterpart: the same dimmed syntax palette, laid on a soft taro lilac (`#CEBCD9`) with deep violet ink and an `#40009E` accent.
 
 ## How it was created
 
