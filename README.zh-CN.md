@@ -5,6 +5,11 @@
 
 Latenite 是一款深色 VS Code 主题，采用**黑紫**配色方案，**低饱和度**，并配有**暗色调的语法高亮**，主要为夜间编程场景设计。代码纯天然（AI），零人工添加成分。
 
+## 变体
+
+- **latenite** —— 黑紫配色，原始深色主题。
+- **latenite dawn** —— 对应的浅色版本：同样的暗调语法色，铺在淡紫底色（`#C6ACE0`）上，配深紫墨色与 `#40009E` 强调色。
+
 ## 创建方式
 
 本主题使用 [Yeoman](https://yeoman.io/) 和 [VS Code 扩展生成器](https://www.npmjs.com/package/generator-code) 生成，该工具提供了构建自定义主题的脚手架结构。

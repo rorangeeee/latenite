@@ -5,6 +5,11 @@
 
 Latenite is a dark VS Code theme featuring a **black-purple** color palette with **low saturation** and **dimmed syntax highlighting**, primarily designed for late-night coding sessions.Also it's a purely vibe-coded.
 
+## Variants
+
+- **latenite** — black & purple, the original dark theme.
+- **latenite dawn** — the light counterpart: the same dimmed syntax palette, laid on a lavender paper (`#C6ACE0`) with deep violet ink and an `#40009E` accent.
+
 ## How it was created
 
 This theme was generated using [Yeoman](https://yeoman.io/) and the [VS Code Extension Generator](https://www.npmjs.com/package/generator-code), which provides a scaffolded structure for building custom themes.

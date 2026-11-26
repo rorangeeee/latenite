@@ -2,7 +2,7 @@
   "name": "latenite",
   "displayName": "latenite.",
   "description": "black & purple, pure & quiet.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/rorangeeee/latenite.git"
@@ -19,6 +19,11 @@
         "label": "latenite",
         "uiTheme": "vs-dark",
         "path": "./themes/latenite-color-theme.json"
+      },
+      {
+        "label": "latenite dawn",
+        "uiTheme": "vs-light",
+        "path": "./themes/latenite-dawn-color-theme.json"
       }
     ]
   }
