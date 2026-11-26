@@ -197,7 +197,7 @@
     "checkbox.foreground": "#33294A",
     "checkbox.border": "#AD8FC9",
     "checkbox.checkmarkBackground": "#40009E",
-    "checkbox.checkmarkForeground": "#241B33",
+    "checkbox.checkmarkForeground": "#F7F3FC",
     "list.activeSelectionBackground": "#AD8FC9",
     "list.activeSelectionForeground": "#241B33",
     "list.activeSelectionBorder": "#40009E",
